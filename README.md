@@ -1,16 +1,33 @@
-### Hi there 👋
+### Olá Mundo, eu sou o Wellington 👋
 
-<!--
-**W-Fonseca/W-Fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Antifascista badge](https://img.shields.io/badge/dev-antifascista-red)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-juvenal-ferreira-fonseca-a4b01a67/)](https://www.linkedin.com/in/wellington-juvenal-ferreira-fonseca-a4b01a67/)
 
-Here are some ideas to get you started:
+<img src="https://cdn5.vectorstock.com/i/thumb-large/85/84/grated-cloud-data-and-computer-system-code-vector-21928584.jpg" align="left" width="240">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+* 👨‍🦲 **28 anos**
+* 👶 Programador a 1 ano
+* 👨‍💻 Desenvolvedor de Automação na Duratex
+* 🤖 Cursando Engenharia da Computação
+* 🍕 Gosto de comer e fazer pizza :pizza:
+* 💻 Brinco com Raspberry Pi e Arduino
+* 🎲 Viciado em jogos de RPG
+* 👽 Fissurado em filmes sci-fi
+* 🌌 Me interesso por astronomia
+
+
+### Trabalho com:
+* Python ✅
+* VBA ✅
+* SAP ✅
+
+### Conheço:
+* C# ✅
+* C++ ✅
+
+### Pretendo aprender em 2021:
+* HTML5 📜
+* MySQL 📜
+* Javascript 📜
+* Java 📜
