@@ -22,7 +22,7 @@
 * Python ✅
 * VBA ✅
 * SAP ✅
-
+* Blue Prism ✅
 ### Conheço:
 * C# ✅
 * C++ ✅
