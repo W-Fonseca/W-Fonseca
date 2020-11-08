@@ -10,7 +10,7 @@
 * 👶 Programador a 1 ano
 * 👨‍💻 Desenvolvedor de Automação na Duratex
 * 🤖 Cursando Engenharia da Computação
-* 🍕 Gosto de comer e fazer pizza :pizza:
+* 🍕 Gosto de fazer pizza
 * 💻 Brinco com Raspberry Pi e Arduino
 * 🎲 Viciado em jogos de RPG
 * 👽 Fissurado em filmes sci-fi
@@ -28,7 +28,6 @@
 * C++ ✅
 
 ### Pretendo aprender em 2021:
-* HTML5 📜
+* HTML5 + CSS + Javascript📜
 * MySQL 📜
-* Javascript 📜
 * Java 📜
