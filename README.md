@@ -15,17 +15,20 @@
 * 🎲 Viciado em jogos de RPG
 * 👽 Fissurado em filmes sci-fi
 * 🌌 Me interesso por astronomia
-/
-/
+#
+#
 
 ### Trabalho com:
 ![Linkedin Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/VBA-%)
-* SAP ✅
+#
+![Linkedin Badge](https://img.shields.io/badge/-VBA-brightgreen)
+#
+![Linkedin Badge](https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white&style=for-the-badge)
+#
 * Blue Prism ✅
 ### Conheço:
-* C# ✅
-* C++ ✅
+![Linkedin Badge](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![Linkedin Badge](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Pretendo aprender em 2021:
 * HTML5 + CSS + Javascript📜
