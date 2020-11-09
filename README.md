@@ -20,9 +20,9 @@
 ### Trabalho com:
 ![Linkedin Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&logo=python&logoColor=white)
 
-![Linkedin Badge](https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white)
-
 ![Linkedin Badge](https://img.shields.io/badge/-BluePrism-blue)
+
+![Linkedin Badge](https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white)
 
 ![Linkedin Badge](https://img.shields.io/badge/-VBA-brightgreen)
 
