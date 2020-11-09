@@ -32,6 +32,7 @@
 ![Linkedin Badge](https://img.shields.io/badge/c++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
 
 ### Pretendo aprender em 2021:
-* HTML5 + CSS + Javascript📜
-* MySQL 📜
-* Java 📜
+
+![Linkedin Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white) + ![Linkedin Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white) + ![Linkedin Badge](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&logo=javascript&logoColor=black) 
+
+![Linkedin Badge](https://img.shields.io/badge/mysql-%2300f.svg?&&logo=mysql&logoColor=white)
