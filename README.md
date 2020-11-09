@@ -22,9 +22,9 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white)
 
-![Linkedin Badge](https://img.shields.io/badge/-VBA-brightgreen)
-
 ![Linkedin Badge](https://img.shields.io/badge/-BluePrism-blue)
+
+![Linkedin Badge](https://img.shields.io/badge/-VBA-brightgreen)
 
 ### Conheço:
 ![Linkedin Badge](https://img.shields.io/badge/c%23%20-%23239120.svg?&logo=c-sharp&logoColor=white)
