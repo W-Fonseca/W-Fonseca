@@ -24,16 +24,11 @@
 ![Linkedin Badge](https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-VBA-brightgreen)
 
-### Conheço:
-
-![Linkedin Badge](https://img.shields.io/badge/c%23%20-%23239120.svg?&logo=c-sharp&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/c++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
-
-### Pretendo aprender em 2021:
-
-![Linkedin Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&logo=javascript&logoColor=black) 
-![Linkedin Badge](https://img.shields.io/badge/mysql-%2300f.svg?&&logo=mysql&logoColor=white)
-
 [<img src="https://user-images.githubusercontent.com/64553168/98723914-c054ed80-2371-11eb-9cde-7ba9ba32262e.PNG" align="left" width="">](https://docs.microsoft.com/pt-br/users/w-fonseca/)
+
+<!-- status codes -->
+  <div align="center">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=W-Fonseca&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&layout=compact&theme=dracula" alt="languages" height="165">
+    </p>
+  </div>
