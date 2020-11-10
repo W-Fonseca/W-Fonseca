@@ -35,3 +35,5 @@
 ![Linkedin Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&logo=javascript&logoColor=black) 
 ![Linkedin Badge](https://img.shields.io/badge/mysql-%2300f.svg?&&logo=mysql&logoColor=white)
+
+[<img src="https://user-images.githubusercontent.com/64553168/98723914-c054ed80-2371-11eb-9cde-7ba9ba32262e.PNG" align="left" width="">](https://docs.microsoft.com/pt-br/users/w-fonseca/)
