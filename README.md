@@ -29,7 +29,7 @@
 <!-- status codes -->
   <div align="center">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=W-Fonseca&show_icons=true&theme=dark" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&layout=compact&theme=dark" alt="languages" height="165" hide_rank "True">
+      <img src="https://github-readme-stats.vercel.app/api?username=W-Fonseca&show_icons=true&theme=vue" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&layout=compact&theme=vue" alt="languages" height="165" hide_rank "True">
     </p>
   </div>
   
