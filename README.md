@@ -30,5 +30,3 @@
       <img src="https://github-readme-stats.vercel.app/api?username=W-Fonseca&show_icons=true&theme=vue" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&layout=compact&theme=vue" alt="languages" height="165" hide_rank "True">
     </p>
   </div>
-  
-  [<img src="https://user-images.githubusercontent.com/64553168/98723914-c054ed80-2371-11eb-9cde-7ba9ba32262e.PNG" align="left" width="">](https://docs.microsoft.com/pt-br/users/w-fonseca/)
