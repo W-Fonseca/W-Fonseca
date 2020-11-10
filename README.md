@@ -24,8 +24,6 @@
 ![Linkedin Badge](https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-VBA-brightgreen)
 
-[<img src="https://user-images.githubusercontent.com/64553168/98723914-c054ed80-2371-11eb-9cde-7ba9ba32262e.PNG" align="left" width="">](https://docs.microsoft.com/pt-br/users/w-fonseca/)
-
 <!-- status codes -->
   <div align="center">
     <p align="center">
@@ -33,4 +31,4 @@
     </p>
   </div>
   
-  
+  [<img src="https://user-images.githubusercontent.com/64553168/98723914-c054ed80-2371-11eb-9cde-7ba9ba32262e.PNG" align="left" width="">](https://docs.microsoft.com/pt-br/users/w-fonseca/)
