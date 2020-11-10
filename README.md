@@ -1,3 +1,6 @@
+![Sem título](https://user-images.githubusercontent.com/64553168/98744220-189ae800-2390-11eb-866a-bb9b222df196.png)
+
+
 ### Olá Mundo, eu sou o Wellington 👋
 
 ![Antifascista badge](https://img.shields.io/badge/dev-antifascista-red)
