@@ -26,7 +26,3 @@
 ![Linkedin Badge](https://img.shields.io/badge/-BluePrism-blue)
 ![Linkedin Badge](https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-VBA-brightgreen)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=W-Fonseca&show_icons=true&theme=vue" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&theme=vue" alt="languages" height="190">
-
