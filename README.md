@@ -1,5 +1,4 @@
-[![Sem título](https://user-images.githubusercontent.com/64553168/98746141-a3311680-2393-11eb-9bf7-d61e1b68fb47.png)](https://docs.microsoft.com/pt-br/users/w-fonseca/)
-
+![learn](https://user-images.githubusercontent.com/64553168/100143622-5f024380-2e74-11eb-809e-c5197c042672.jpg)
 
 ### Olá Mundo, eu sou o Wellington 👋
 
