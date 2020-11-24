@@ -1,4 +1,4 @@
-![learn](https://user-images.githubusercontent.com/64553168/100143622-5f024380-2e74-11eb-809e-c5197c042672.jpg)
+![learn](https://user-images.githubusercontent.com/64553168/100144457-92919d80-2e75-11eb-8e1f-cd6b4d878462.jpg)
 
 ### Olá Mundo, eu sou o Wellington 👋
 
