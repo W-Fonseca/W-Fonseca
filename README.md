@@ -4,8 +4,7 @@
 ![Antifascista badge](https://img.shields.io/badge/dev-antifascista-red)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-juvenal-ferreira-fonseca-a4b01a67/)](https://www.linkedin.com/in/wellington-juvenal-ferreira-fonseca-a4b01a67/)
 
-<img src="https://cdn5.vectorstock.com/i/thumb-large/85/84/grated-cloud-data-and-computer-system-code-vector-21928584.jpg" align="left" width="240">
-
+<img src="https://user-images.githubusercontent.com/64553168/101780128-e25aa080-3ad4-11eb-9e42-94745e935bcb.gif" align="left" width="350">
   
 * 👨‍🦲 **28 anos**
 * 👶 Programador a 1 ano
