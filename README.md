@@ -16,7 +16,7 @@
 * 👽 Fissurado em filmes sci-fi
 * 🌌 Me interesso por astronomia
 #
-
+#
 ### Trabalho com:
 
 ![Linkedin Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&logo=python&logoColor=white)
