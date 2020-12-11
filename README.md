@@ -4,7 +4,6 @@
 ![Antifascista badge](https://img.shields.io/badge/dev-antifascista-red)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-juvenal-ferreira-fonseca-a4b01a67/)](https://www.linkedin.com/in/wellington-juvenal-ferreira-fonseca-a4b01a67/)
 [![MicrosoftLearn Badge](https://img.shields.io/badge/-Microsoft-Learn?logo=Microsoft&logoColor=white&link=https://docs.microsoft.com/pt-br/users/w-fonseca/)](https://docs.microsoft.com/pt-br/users/w-fonseca/)
-[![MicrosoftLearn Badge](https://img.shields.io/badge/-Outlook?logo=Outlook&logoColor=white&link=https://www.linkedin.com/in/wellington-juvenal-ferreira-fonseca-a4b01a67/)](https://www.linkedin.com/in/wellington-juvenal-ferreira-fonseca-a4b01a67/)
 
 <img src="https://user-images.githubusercontent.com/64553168/101780128-e25aa080-3ad4-11eb-9e42-94745e935bcb.gif" align="left" width="350">
   
