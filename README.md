@@ -36,6 +36,7 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 
 ### Pretendo aprender em 2021/2022
 <p align="left">
