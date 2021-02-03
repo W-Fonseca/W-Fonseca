@@ -40,13 +40,14 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/iot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src= "https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="" height="33" style="vertical-align:top margin:6px 4px">
 <img src="https://img.shields.io/badge/SQL-151b1f?logo=SQL" TextColor="brightgreen" alt="2" style="vertical-align:top margin:6px 4px" height="33">
-
+  
 ### Pretendo aprender em 2021/2022
 <p align="left">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/services/dockerhub.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/android_studio_colour.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src= "https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="" height="33" style="vertical-align:top margin:6px 4px">
+
 
  
 ### Ferramentas que utilizo:
