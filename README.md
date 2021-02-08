@@ -49,14 +49,24 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/services/dockerhub.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 
 
-
- 
 ### Ferramentas que utilizo:
 <p align="left">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_pycharm.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-
-
+  
+  
 <img src="https://github-readme-stats.vercel.app/api?username=W-Fonseca&show_icons=true&theme=great-gatsby" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&theme=great-gatsby" alt="languages" height="190">
 
+<H2>O porquê de aprender várias linguagens:<H2>
+<h4>Primeiramente não se deve aprender todas aos mesmo tempo.</h4>
+ <p>Mas vou deixar aqui o porquê eu aprendi diversas linguagens e ainda busco um pouco mais:</p> 
+  <ol> <li><strong>VBA</strong> para automações em planilhas, foi minha primeira linguagem. </li> 
+   <li><strong>Python</strong> para automações no sistema SAP, sites, fazer scraping, gerar gráficos automaticamente utilizando <storng>pandas</strong>(Data Science) e IA (Inteligencia Artificial) utilizando o modulo <strong>Watson</Strong>.</li>
+  <li><strong>C#</strong> para desenvolvimento de softwares <strong>Windows</strong>, com muita facilidade utilizando o <strong>Visual Studio</strong> e o Framework <strong>Windows Forms</strong>
+  <li><strong>HTML5 + CSS3 + Javascript</strong> para criação e interação de sites de forma simples e fácil</li>
+   <li><Strong>SQL</Strong> para criar o seu próprio banco de dados e poder acessar e controlar qualquer coisa de onde você estiver, Ex: ligar seu Desktop com um <strong>Arduino</strong> que está acessando seu banco de dados apertando um botão.
+    <li><strong>Java</Strong> Criar aplicativos nativos <Strong>Android</Strong> utilizando o <strong>Android Studio</strong>, com uma facilidade gigantesca.
+      <li><strong>C++</strong> Automação residencial e IOT(Internet das coisas), é muito gratificante construir um Drone ou um Robô e ver ele trabalhar para você.
+    </ol>
+  <p>É impossível não obter entusiasmado em aprender várias linguagens, quando você tem Brainstorm (Chuva de ideias) todos os dias na sua cabeça.
