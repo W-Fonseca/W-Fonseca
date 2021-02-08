@@ -58,7 +58,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=W-Fonseca&show_icons=true&theme=great-gatsby" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&theme=great-gatsby" alt="languages" height="190">
 
-<H2>O porquê de aprender várias linguagens:<H2>
+<H2>O porquê de aprender várias linguagens:</H2>
 <h4>Primeiramente não se deve aprender todas aos mesmo tempo.</h4>
  <p>Mas vou deixar aqui o porquê eu aprendi diversas linguagens e ainda busco um pouco mais:</p> 
   <ol> <li><strong>VBA</strong> para automações em planilhas, foi minha primeira linguagem. </li> 
