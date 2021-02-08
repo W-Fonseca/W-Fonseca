@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/64553168/101780128-e25aa080-3ad4-11eb-9e42-94745e935bcb.gif" align="left" width="350">
   
 * 👨‍🦲 **28 anos**
-* 👶 Programador a 1 ano
+* 👶 Programador há 1 ano
 * 👨‍💻 Desenvolvedor de Automação na Duratex
 * 🤖 Cursando Engenharia da Computação
 * 🍕 Gosto de fazer pizza
@@ -69,4 +69,4 @@
     <li><strong>Java</Strong> Criar aplicativos nativos <Strong>Android</Strong> utilizando o <strong>Android Studio</strong>, com uma facilidade gigantesca.
       <li><strong>C++</strong> Automação residencial e IOT(Internet das coisas), é muito gratificante construir um Drone ou um Robô e ver ele trabalhar para você.
     </ol>
-  <p>É impossível não obter entusiasmado em aprender várias linguagens, quando você tem Brainstorm (Chuva de ideias) todos os dias na sua cabeça.
+  <p>É impossível não obter entusiasmo em aprender várias linguagens, quando você tem Brainstorm (Chuva de ideias) todos os dias na sua cabeça.
