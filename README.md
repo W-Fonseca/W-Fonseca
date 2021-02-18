@@ -72,6 +72,6 @@
   <p>É impossível não obter entusiasmo em aprender várias linguagens, quando você tem Brainstorm (Chuva de ideias) todos os dias na sua cabeça.
   
 
-
+.
 
 
