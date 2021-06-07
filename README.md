@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/64553168/101780128-e25aa080-3ad4-11eb-9e42-94745e935bcb.gif" align="left" width="350">
   
 * 👨‍🦲 **28 anos**
-* 👶 Programador há 1 ano
+* 👶 Programador há 3 ano
 * 👨‍💻 Desenvolvedor de Automação na Duratex
 * 🤖 Cursando Engenharia da Computação
 * 🍕 Gosto de fazer pizza
