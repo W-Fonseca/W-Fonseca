@@ -15,7 +15,7 @@
 * 💻 Brinco com Raspberry Pi e Arduino
 * 🎲 Viciado em jogos de RPG
 * 👽 Fissurado em filmes sci-fi
-* 🌌 Me interesso por astronomia
+* 🌌 Amo astronomia
 
 ###
 #
