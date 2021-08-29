@@ -69,4 +69,4 @@
       <li><strong>C++</strong> Automação residencial e IOT(Internet das coisas), é muito gratificante construir um Drone ou um Robô e ver ele trabalhar para você.
     </ol>
   <p>É impossível não obter entusiasmo em aprender várias linguagens, quando você tem Brainstorm (Chuva de ideias) todos os dias na sua cabeça.
-  https://informatica.mercadolivre.com.br/acessorios-notebook/pecas-e-partes/baterias/bateria-notebook-dell-j1knd-11.1v-48wh-%28nova%29
+  <input id="caixa1">digite algo </input>
