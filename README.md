@@ -9,7 +9,7 @@
   
 * 👨‍🦲 **29 anos**
 * 👶 Programador há 4 ano
-* 👨‍💻 Desenvolvedor de Automação na Duratex
+* 👨‍💻 Programador de Automação na Hypera Pharma
 * 🤖 Cursando Engenharia da Computação
 * 🍕 Gosto de fazer pizza
 * 💻 Brinco com Raspberry Pi e Arduino
