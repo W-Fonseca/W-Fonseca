@@ -1,4 +1,4 @@
-                        
+                         
 ### Olá Mundo, eu sou o Wellington 👋
 
 ![Antifascista badge](https://img.shields.io/badge/Dev-Antifascista-red)
@@ -70,3 +70,5 @@
     </ol>
   <p>É impossível não obter entusiasmo em aprender várias linguagens, quando você tem Brainstorm (Chuva de ideias) todos os dias na sua cabeça.
  
+
+.
