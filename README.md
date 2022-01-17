@@ -43,7 +43,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/iot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   
-### Pretendo aprender em 2021/2022
+### Pretendo aprender em 2022
 <p align="left">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/services/dockerhub.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/android_studio_colour.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -52,7 +52,6 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_pycharm.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   
 <img src="https://github-readme-stats.vercel.app/api?username=W-Fonseca&show_icons=true&theme=great-gatsby" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&theme=great-gatsby" alt="languages" height="190">
 
@@ -68,6 +67,3 @@
       <li><strong>C++</strong> Automação residencial e IOT(Internet das coisas), é muito gratificante construir um Drone ou um Robô e ver ele trabalhar para você.
     </ol>
   <p>É impossível não obter entusiasmo em aprender várias linguagens, quando você tem Brainstorm (Chuva de ideias) todos os dias na sua cabeça.
- 
-
-.
