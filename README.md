@@ -54,7 +54,6 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_pycharm.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   
-  'http://www.indungi.ro/forum/uploads/gallery/category_40/gallery_131388_40_1021159.gif
 <img src="https://github-readme-stats.vercel.app/api?username=W-Fonseca&show_icons=true&theme=great-gatsby" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&theme=great-gatsby" alt="languages" height="190">
 
 <H2>O porquê de aprender várias linguagens:</H2>
