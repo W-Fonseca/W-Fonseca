@@ -58,7 +58,7 @@
 <H2>O porquê de aprender várias linguagens:</H2>
 <h4>Primeiramente não se deve aprender todas aos mesmo tempo.</h4>
  <p>Mas vou deixar aqui o porquê eu aprendi diversas linguagens e ainda busco um pouco mais:</p> 
-  <ol> <li><strong>VBA</strong> para automações em planilhas, foi minha primeira linguagem. </li> 
+  <ol> <li><strong>VBA</strong> para automações em planilhas, sites,SAP,Etc. você tem o banco de dados e o script no mesmo lugar e foi minha primeira linguagem. rsrs... </li> 
    <li><strong>Python</strong> para automações no sistema SAP, sites, fazer scraping, gerar gráficos automaticamente utilizando <storng>pandas</strong>(Data Science) e IA (Inteligencia Artificial) utilizando o modulo <strong>Watson</Strong>.</li>
   <li><strong>C#</strong> para desenvolvimento de softwares <strong>Windows</strong>, com muita facilidade utilizando o <strong>Visual Studio</strong> e o Framework <strong>Windows Forms</strong>
   <li><strong>HTML5 + CSS3 + Javascript</strong> para criação e interação de sites de forma simples e fácil</li>
