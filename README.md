@@ -9,7 +9,7 @@
   
 * 👨‍🦲 **29 anos**
 * 👶 Programador há 4 ano
-* 👨‍💻 Programador de Automação na Hypera Pharma
+* 👨‍💻 Programador de Automação na Wine
 * 🤖 Cursando Engenharia da Computação
 * 🍕 Gosto de fazer pizza
 * 💻 Brinco com Raspberry Pi e Arduino
