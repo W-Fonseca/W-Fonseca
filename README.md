@@ -61,7 +61,7 @@
   <ol> <li><strong>VBA</strong> para automações em planilhas, sites,SAP,Etc. você tem o banco de dados e o script no mesmo lugar e foi minha primeira linguagem. rsrs... </li> 
    <li><strong>Python</strong> para automações no sistema SAP, sites, fazer scraping, gerar gráficos automaticamente utilizando <storng>pandas</strong>(Data Science) e IA (Inteligencia Artificial) utilizando o modulo <strong>Watson</Strong>.</li>
   <li><strong>C#</strong> para desenvolvimento de softwares <strong>Windows</strong>, com muita facilidade utilizando o <strong>Visual Studio</strong> e o Framework <strong>Windows Forms</strong>
-  <li><strong>HTML5 + CSS3 + Javascript</strong> para criação e interação de sites de forma simples e fácil</li>
+  <li><strong>HTML5 + CSS3 + Javascript</strong> para criação e interação de sites de forma simples e fácil, e rodar um  <strong>"aplicativo"</strong> aonde você quiser, TV, video game, PC, celular, etc. sem precisar instalar nada e <strong>de graça</strong> usando o Google Sites. </li>
    <li><Strong>SQL</Strong> para criar o seu próprio banco de dados e poder acessar e controlar qualquer coisa de onde você estiver, Ex: ligar seu Desktop com um <strong>Arduino</strong> que está acessando seu banco de dados apertando um botão.
     <li><strong>Java</Strong> Criar aplicativos nativos <Strong>Android</Strong> utilizando o <strong>Android Studio</strong>, com uma facilidade gigantesca.
       <li><strong>C++</strong> Automação residencial e IOT(Internet das coisas), é muito gratificante construir um Drone ou um Robô e ver ele trabalhar para você.
