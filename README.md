@@ -6,16 +6,16 @@
 
 <img src="https://user-images.githubusercontent.com/64553168/101780128-e25aa080-3ad4-11eb-9e42-94745e935bcb.gif" align="left" width="350">
   
-* 👨‍🦲 **29 anos**
-* 👶 Programador há 4 ano
-* 👨‍💻 Programador de Automação na Wine
-* 🤖 Cursando Engenharia da Computação
-* 🍕 Gosto de fazer pizza
-* 💻 Brinco com Raspberry Pi e Arduino
-* 🎲 Viciado em jogos de RPG
-* 👽 Fissurado em filmes sci-fi
-* 🌌 Amo astronomia
-
+👨‍🦲 **30 anos** <br>
+👶 Programador há 5 ano <br>
+👨‍💻 Programador de Automação de processos <br>
+🤖 Cursando Engenharia da Computação <br>
+🍕 Gosto de fazer pizza <br>
+💻 Brinco com Raspberry Pi e Arduino, crio umas tv box. <br>
+🎲 Viciado em jogos de RPG <br>
+👽 Fissurado em filmes sci-fi <br>
+🌌 Amo astronomia <br>
+<br>
 ###
 #
 ### Trabalho com:
@@ -41,7 +41,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/iot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   
-### Pretendo aprender em 2022
+### Pretendo aprender em 2023
 <p align="left">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/services/dockerhub.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/android_studio_colour.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
