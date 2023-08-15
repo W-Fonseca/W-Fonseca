@@ -16,9 +16,5 @@
 👽 Fissurado em filmes sci-fi <br>
 🌌 Amo astronomia <br>
 <br>
-###
-#  
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Fonseca&theme=great-gatsby" alt="languages" height="190">
  
 ex.: wget -O - https://dl-ssl.google.com/dl/googlesource/git-repo/repo > ~/bin/repo
