@@ -16,5 +16,3 @@
 👽 Fissurado em filmes sci-fi <br>
 🌌 Amo astronomia <br>
 <br>
- 
-ex.: wget -O - https://dl-ssl.google.com/dl/googlesource/git-repo/repo > ~/bin/repo
