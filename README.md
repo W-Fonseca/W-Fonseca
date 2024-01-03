@@ -17,7 +17,18 @@
 🌌 Amo astronomia <br>
 <br>
 <br>
+## I work with ##
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![VS Code Insiders](https://img.shields.io/badge/Visual%20Studio%20Code-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-007ACC.svg?style=for-the-badge&logo=visual-basic&logoColor=white)
+![Blue Prism](https://img.shields.io/badge/Blue%20Prism-darkblue?style=for-the-badge&logo=Prisma&logoColor=white)
 <br>
+## Hobby with ##
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 <br>
 <pre>
 ███╗   ██╗ ██████╗ ██████╗ ███████╗    ███████╗██████╗  █████╗ ███╗   ███╗███████╗
