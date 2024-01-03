@@ -6,13 +6,13 @@
 
 <img src="https://user-images.githubusercontent.com/64553168/101780128-e25aa080-3ad4-11eb-9e42-94745e935bcb.gif" align="left" width="350">
   
-👨‍🦲 **30 anos** <br>
-👶 Programador há 5 ano <br>
+👨‍🦲 **32 anos** <br>
+👶 Programador há 6 ano <br>
 👨‍💻 Programador de Automação de processos <br>
 🤖 Cursando Engenharia da Computação <br>
 🍕 Gosto de fazer pizza <br>
-💻 Brinco com Raspberry Pi e Arduino, crio umas tv box. <br>
-🎲 Viciado em jogos de RPG <br>
+💻 Brinco com Raspberry Pi, Arduino, radxa zero (melhor placa que ja mexi) e orange pi, crio umas tv box por ai. <br>
+🎲 Viciado em jogos de RPG (comprei Baldur's gate 3 em 2020 hahaha...) <br>
 👽 Fissurado em filmes sci-fi <br>
 🌌 Amo astronomia <br>
 <br>
