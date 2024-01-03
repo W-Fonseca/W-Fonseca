@@ -27,7 +27,7 @@
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-007ACC.svg?style=for-the-badge&logo=visual-basic&logoColor=white)
 ![Blue Prism](https://img.shields.io/badge/Blue%20Prism-darkblue?style=for-the-badge&logo=Prisma&logoColor=white)
 <br>
-## Hobby with ##
+## My Hobbys ##
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
