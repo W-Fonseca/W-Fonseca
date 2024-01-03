@@ -11,8 +11,8 @@
 👨‍💻 Programador de Automação de processos <br>
 🤖 Cursando Engenharia da Computação <br>
 🍕 Gosto de fazer pizza <br>
-💻 Brinco com Raspberry Pi, Arduino, radxa zero (melhor placa que ja mexi) e orange pi, crio umas tv box por ai. <br>
-🎲 Viciado em jogos de RPG (comprei Baldur's gate 3 em 2020 hahaha...) <br>
+💻 Brinco com Raspberry Pi, Arduino, radxa zero e orange pi <br>
+🎲 Viciado em jogos de RPG <br>
 👽 Fissurado em filmes sci-fi <br>
 🌌 Amo astronomia <br>
 <br>
@@ -29,6 +29,15 @@
 ## Hobby with ##
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+|
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
 <pre>
 ███╗   ██╗ ██████╗ ██████╗ ███████╗    ███████╗██████╗  █████╗ ███╗   ███╗███████╗
